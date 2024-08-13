@@ -1,0 +1,3 @@
+Title: SAM.gov | Search
+Links: []
+Query: index=_all&page=1&pageSize=25&sort=-modifiedDate&sfm[simpleSearch][keywordRadio]=ALL&sfm[simpleSearch][keywordTags][0][key]=forestry&sfm[simpleSearch][keywordTags][0][value]=forestry&sfm[status][is_active]=true
