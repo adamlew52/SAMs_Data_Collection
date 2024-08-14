@@ -1,0 +1,21 @@
+SubFinder.py
+    - access googlemapsAPI
+    - process data from the list of data
+        - location
+        - work type
+        - times
+            - Updated Published Date
+            - Original Published Date
+            - Updated Date Offers Due
+            - Original Date Offers Due
+            - Inactive Policy
+            - Updated Inactive Date
+            - Original Inactive Date
+        - Classification
+            - Original Set Aside
+            - Product Service Code
+            - NAICS Code
+            - Place of Performance
+    - Draft message to SUB
+        - workload
+        - payment 

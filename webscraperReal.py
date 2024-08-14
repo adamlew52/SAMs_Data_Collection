@@ -31,7 +31,7 @@ def CopyHTML(urls):
     g = open("trackData.txt", "a")
     # traverse paragraphs from soup
     for link in soup.find_all("a"):
-        data = link.get('class="usa-link" href')
+        data = link.get('href')
         #g.write(f"\n{link},{grab},{soup}")
         g.write(data)
         g.write("\n")
